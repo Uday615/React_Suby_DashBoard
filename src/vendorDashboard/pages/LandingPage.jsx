@@ -140,9 +140,11 @@ const LandingPage = () => {
         {showAddProduct && showLogOut && <AddProduct /> }
         {showAllProducts && showLogOut &&  firmId && <AllProducts firmId={firmId} showAllProducts={showAllProducts} />}
         </div>
+        
     </section>
     </>
   )
 }
 
 export default LandingPage
+

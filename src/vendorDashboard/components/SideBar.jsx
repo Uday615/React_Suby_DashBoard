@@ -14,4 +14,4 @@ const SideBar = ({showAddFirmHandler,showAddProductHandler, showAllProductsHandl
   )
 }
 
-export default SideBar
+export default SideBar;
