@@ -13,7 +13,11 @@
     "@types/react-router-dom": "^5.3.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.23.0"
+=======
+    "react-router-dom": "^7.7.0"
+>>>>>>> 0a24a5f (installed react-router-dom)
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
